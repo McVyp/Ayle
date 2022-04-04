@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+Ayle
+![image](https://user-images.githubusercontent.com/93302780/161596455-8eaf0f98-124f-4698-8d57-438068e5c2d9.png)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+An Online Art Gallery
 
 ## Available Scripts
 
